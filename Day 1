@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+  <head>
+   <title>Basic html</title>
+   <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">   
+  </head>
+ 
+<body>
+  <table height="1000" width="800" border="1" align="center" cellspacing="0" bgcolor="white" bordercolor="red">
+     <tr height="100" bgcolor="#0C529A"> <!--Head Section-->
+        <td colspan="7"></td>
+     </tr>
+
+	 <tr height="40" align="center" bgcolor="#F1A393"> <!--Menubar Section-->
+        <td>Home</td>
+		<td>About Us</td>
+		<td>Contact Us</td>
+		<td>Feedback</td>
+		<td>Sign In</td>
+		<td>Gellary</td>
+		<td>Sign Up</td>
+     </tr>
+	 
+	 <tr bgcolor="#E7F580"> <!--Body Section-->
+        <td colspan="7" valign="top" align="center">		  
+		</td>
+     </tr>
+	 
+	 <tr height="160" bgcolor="#D5BBF5"> <!--Bottom Section-->
+        <td colspan="2"></td>
+		<td colspan="3"></td>
+		<td colspan="2"></td>
+     </tr>
+	 
+  </table>
+</body> 
+ 
+</html>
